@@ -1,4 +1,4 @@
-# Object detection- To find the Biggest-Strawberry using OpenCV
+# Object detection- To find the Biggest Strawberry using OpenCV
 
 The code is a simple OpenCV Code.
 It has been commented heavily and is almost self explanatory.
