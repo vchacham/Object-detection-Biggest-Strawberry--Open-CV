@@ -2,7 +2,7 @@
 
 The code is a simple OpenCV Code.
 It has been commented heavily and is almost self explanatory.
-Change the path of the file from the location of the image and try the code.
+Change the path of the image in the code and try to run it.
 
 
 
